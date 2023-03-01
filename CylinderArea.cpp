@@ -1,9 +1,8 @@
-// P 5_2.cpp This program illustrates the local and global variables and call-by-value.  
-// This program computes the side area and the cross section area of a cylinder  
+// This program computes the side area, the cross section area, and total area of a cylinder  
 #include<iostream>  
 #include<cmath>  
 using namespace std;
-//Let’s declare first any global constant, if any required 
+//Letâ€™s declare first any global constant, if any required 
 // This variable is defined globally, i.e. it is known to all functions in this program as PI  
 // To declare a global constant you must write it outside the main() function 
 const double PI = 3.14159;
